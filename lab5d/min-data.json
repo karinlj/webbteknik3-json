@@ -1,0 +1,77 @@
+{
+    "usb": [
+        {
+            "image": {
+                "url": "images/usb1.jpg"
+            },
+            "capacity": "16GB",
+            "name": "Sandisk Cruzer Blade",
+            "brand": "Sandisk",
+            "interface": "usb 2.0",
+            "description": "Smidigt och lätt USB-minne. Ta med dig din digitala värld i fickan. Överför och dela enkelt dina bilder, videos, musik och andra filer mellan olika datorer.",
+            "price": "49",
+            "unit": "SEK"
+            
+            
+        },
+       
+         {
+            "image": {
+                 "url": "images/usb2.jpg"
+            },
+            "capacity": "16GB",
+            "name": "SanDisk Ultra Flash Drive",
+            "brand": "Sandisk",
+            "interface": "usb 3.0",
+            "description": "Överföringshastigheter på upp till 80 MB/sekund, fyra gånger snabbare än USB 2.0. Den inbyggda mjukvaran använder kraftfull 128-bit AES för kryptering, så att du kan ha din privata data i en lösenordsskyddad mapp på minnet.",
+            "price": "69",
+            "unit": "SEK"
+           
+           
+        },
+         {
+            "image": {
+                 "url": "images/usb3.jpg"
+            },
+            "capacity": "16GB",
+            "name": "Sony Micro Vault X-blå",
+            "brand": "Sony",
+            "interface": "usb 3.0",
+            "description": "16GB USB 3.0 flash drive USB-minne i Micro Vault X-serien. Ger dig supersnabb, pålitlig och lätthanterad lagring. Kan användas till både PC och Mac och är perfekt för lagring av filer och multimedia. USB 3.0-gränssnittet gör det effektivt att kopiera stora filer snabbt. Skyddshöljet kan fästas på baksidan av en flash drive, så att det blir enklare att hålla reda på. Det finns även ett smart hål så att du kan fästa det i nyckelringen.",
+            "price": "179",
+            "unit": "SEK"
+           
+           
+        },
+         {
+            "image": {
+                "url": "images/usb4.jpg"
+            },
+            "capacity": "16GB",
+            "name": "Verbatim Store'n Go V3-rosa",
+            "brand": "Verbatim",
+            "interface": "usb 3.0",
+            "description": "Verbatim Store 'n' Go V3 USB-minne kommer med 16 GB lagringskapacitet. USB-minnet har en utdragbar USB-kontakt som förhindrar att det skadas. Med USB 3.0-gränsnitt kan du överföra filer upp till 10 gånger snabbare än med USB 2.0. Hastighet: Maximal läshastighet: Upp till 60 MB/sek. Maximal skrivhastighet: Upp till 12 MB/sek",
+            "price": "149",
+            "unit": "SEK"
+           
+            
+        },
+        {
+             "image": {
+                 "url": "images/usb5.jpg"
+            },
+            "capacity": "16GB",
+            "name": "SanDisk Ultra",
+            "brand": "SanDisk",
+            "interface": "usb-c 3.0",
+            "description": " Snabbt USB-minne med USB-C-kontakt som kan kopplas in åt båda hållen och stöttar USB 3.0-överföringar på upp till 130 MB i sekunden. Minnet kan exempelvis användas för snabb backup av stora mängder data från din laptop, surfplatta eller mobiler med USB-C-port. Det är även bakåtkompatibelt med USB-C 2.0-portar. Kontakten fälls in i höljet när det inte används, vilket skyddar mot skada.",
+            "price": "299",
+            "unit": "SEK"
+           
+                
+           
+        }
+        
+    ]
+}
